@@ -10,11 +10,14 @@
    <li>모르는걸 주저하지 않고, 최대한 정확하게 문제가 뭔지 파악하여 질문하는걸 지향합니다. </li>
    <li>top-down과 bottom-up의 공부방법에 대해 많은 고민을 하지만 정답을 찾기보다 "어떤 것"을 공부할때 효율을 끌어낼지 방법을 정합니다. </li>
   </ul>
-<!--   <div>
+  <div>
   <a href="https://velog.io/@samuel_">
   <img widh="48px" src="https://img.shields.io/badge/Velog%20-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@samuel_"/>
 </a>
-</div> -->
+</div>
+<a href="https://www.codewars.com/users/pangtj">
+<img src="https://img.shields.io/badge/CodeWars-b1361e?style=flat-square&textColor=black&logo=Codewars&logoColor=white"/>
+</a>
 
 <hr/>
 
@@ -34,7 +37,11 @@
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&textColor=black&logo=Redux&logoColor=white"/>
  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&textColor=black&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/The Algorithms-00bcb4?style=flat-square&textColor=black&logo=The Algorithms&logoColor=white"/>
+<br/>
+
+ 
 </div>
+
 
 
 
